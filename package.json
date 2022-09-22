@@ -16,4 +16,7 @@
     "url": "https://github.com/xuannbgch17346/heroku1/issues"
   },
   "homepage": "https://github.com/xuannbgch17346/heroku1#readme"
+  "engines": {
+    "node": "16.17"
+  }
 }
